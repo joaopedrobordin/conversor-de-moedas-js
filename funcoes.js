@@ -1,7 +1,7 @@
-let valorEmDolarTexto = prompt("qual o valor em dolar");
-console.log( typeof valorEmDolarTexto);
+let valorEmDolar = parseFloat(prompt("qual o valor em dolar"));
+console.log( typeof valorEmDolar);
 
-let valorEmDolarNumero = parseFloat(valorEmDolarTexto)
+let valorEmDolarNumero = parseFloat(valorEmDolar)
 console.log(typeof valorEmDolarNumero);
 // float = número decimal -> 12.99
 // int = número inteiro -> 12
