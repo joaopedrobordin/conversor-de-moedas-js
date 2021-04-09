@@ -1,5 +1,14 @@
-.container{
-    background-color: blue;
-    border-bottom-left-radius: 20pt;
+.resposta{
     
+}
+
+.container {
+    background-color: green;
+    border-radius: 20pt;
+    padding: 14px;
+    margin: 10px;
+}
+.caixa-da-resp{
+border: 2px solid green;
+
 }
